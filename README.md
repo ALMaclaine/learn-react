@@ -11,3 +11,4 @@
 - https://blog.bitsrc.io/mastering-the-compound-components-pattern-in-react-unleashing-flexibility-and-maintainability-d310d93508ca
 - https://dev.to/bytebodger/embedding-data-into-reactjsx-elements-3jcp
 - https://www.youtube.com/watch?v=T3m-MZkuadU
+- https://blog.bitsrc.io/graphql-vs-react-server-components-do-we-need-both-226c8b1c2cf7
