@@ -7,3 +7,4 @@
 - https://blockscope.dev/react/build-better-react-components-with-inversion-of-control/
 - https://www.perssondennis.com/articles/react-anti-patterns-and-best-practices-dos-and-donts
 - https://asimzaidi.medium.com/advanced-react-optimization-techniques-for-senior-engineers-dafd2cac7883
+- https://dev.to/codux/react-lessons-from-the-trenches-useeffect-x-infinity-1e3d
