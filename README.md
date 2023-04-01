@@ -8,3 +8,4 @@
 - https://www.perssondennis.com/articles/react-anti-patterns-and-best-practices-dos-and-donts
 - https://asimzaidi.medium.com/advanced-react-optimization-techniques-for-senior-engineers-dafd2cac7883
 - https://dev.to/codux/react-lessons-from-the-trenches-useeffect-x-infinity-1e3d
+- https://blog.bitsrc.io/mastering-the-compound-components-pattern-in-react-unleashing-flexibility-and-maintainability-d310d93508ca
