@@ -12,3 +12,4 @@
 - https://dev.to/bytebodger/embedding-data-into-reactjsx-elements-3jcp
 - https://www.youtube.com/watch?v=T3m-MZkuadU
 - https://blog.bitsrc.io/graphql-vs-react-server-components-do-we-need-both-226c8b1c2cf7
+- https://www.youtube.com/watch?v=CFxA5GmDIbU
