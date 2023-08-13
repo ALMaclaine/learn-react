@@ -7,3 +7,7 @@
   - https://www.youtube.com/watch?v=h7tur48JSaw
   - https://www.youtube.com/watch?v=4Magg0DyKXA
   - https://www.youtube.com/watch?v=TQQPAU21ZUw
+  - https://www.youtube.com/watch?v=F83wMYl9GWM
+  - https://www.youtube.com/watch?v=QRVtu9_xi2k
+  - https://www.youtube.com/watch?v=TJOiXyVKExg
+  - 
